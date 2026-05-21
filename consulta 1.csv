@@ -1,0 +1,64 @@
+"user_id","funcionario","area","habilitado","exp_recibidos","exp_derivados","stock_en_poder","promedio_dias_por_exp","dias_exp_mas_antiguo"
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,353,271,350,13,134
+962,ABOG. DIEGO ARMANDO LEZCANO GALEANO,Dictaminante,Sí,263,189,255,13,135
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial / Juez de Sumario / Secretaría,Sí,153,131,143,5,128
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,156,129,143,6,128
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,124,100,111,9,129
+959,CYNTHIA GILL,Juez de Sumario,Sí,128,90,118,6,119
+48210,Alma Maria Gamarra Alegre,Dictaminante / Dpto. Judicial,Sí,97,89,94,9,94
+22711,ALEXIS ISMAEL  MIÑO SAYAS,Dictaminante,Sí,137,88,131,17,128
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,89,78,81,9,120
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,96,77,88,6,119
+27472,ARNALDO CACERES,Dpto. Judicial,Sí,77,76,77,1,122
+24990,VICTOR RODAS,Dictaminante / Relator,Sí,93,73,82,13,120
+24992,ADRIAN FERNANDEZ,Conclusión / Dpto. Judicial / Juez de Sumario,Sí,107,70,101,8,122
+24993,MARCOS GALEANO,Juez de Sumario,Sí,112,68,103,9,128
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,85,66,81,10,125
+25028,MABEL DIAZ,Juez de Sumario,Sí,64,52,59,9,127
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,64,51,62,6,112
+46722,BRUNO ANGULO APONTE,Dictaminante,Sí,57,50,53,18,126
+27784,MARIANA LOPEZ,Conclusión / Juez de Sumario,Sí,58,41,53,6,122
+24989,CARLOS ALBERTO SANCHEZ NUÑEZ,Ujier Notificador,Sí,38,38,34,12,94
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,43,29,37,8,118
+24991,GUSTAVO MARTINEZ,Coordinación / Dpto. Judicial,Sí,47,28,47,9,132
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,25,23,23,4,122
+48200,SANDRA FERNANDEZ DI TORE,Juez de Sumario,Sí,18,18,17,6,86
+8880,SOL RIVEROS,Juez de Sumario,Sí,35,18,32,6,120
+46169,Amelia Fernandez,Juez de Sumario,Sí,16,16,8,2,87
+45777,NILSON MOREL,Juez de Sumario / Secretaría,Sí,19,13,17,9,106
+24995,CARLA GOMEZ,Coordinación,Sí,7,6,7,8,114
+29586,CAMILA  GONZALEZ,Coordinación,Sí,5,4,4,8,105
+980,MIRIAN JULIANA  PERALTA OJEDA,Secretaría,Sí,2,2,0,2,
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,11,1,10,0,119
+49262,CARLOS ALBERTO SANCHEZ NUÑEZ,Dictaminante / Ujier Notificador,Sí,0,0,0,,
+892,Rosa Gómez,Coordinación / Director,Sí,0,0,0,,
+898,CRISTIAN AMADEO BAZAN FIORI,Coordinación / Director,Sí,0,0,0,,
+923,GONZALO RAFAEL CABALLERO MORA,Ujier Notificador,Sí,0,0,0,,
+999,AMELIA RAMIREZ,Secretaría,Sí,0,0,0,,
+1027,ARNALDO EMMANUEL MUÑOZ GONZALEZ,Coordinación / Director / Mesa Entrada,Sí,0,0,0,,
+6796,ISSIS BEATRIZ AYALA DE PINTOS,Coordinación / Mesa Entrada / Ujier Notificador,Sí,0,0,0,,
+22681,VICTOR JOSE DUARTE PIÑANEZ,Relator,Sí,0,0,0,,
+24998,ROCIO SANABRIA,Coordinación / Director,Sí,0,0,0,,
+27288,EDUARDO CALCENA,Secretaría,Sí,0,0,0,,
+27662,ROCIO SANTACRUZ,Secretaría,Sí,0,0,0,,
+28821,MATIAS OSMAR ESPINOLA AQUINO,Ujier Notificador,Sí,0,0,0,,
+35426,AIDA ADELINA ORTEGA PEREIRA,Secretaría,Sí,0,0,0,,
+38255,FRANCISCO JAVIER GALEANO OCAMPOS,Secretaría,Sí,0,0,0,,
+38288,VICTOR ANDRES GONZALEZ BEDOYA,Director,Sí,0,0,0,,
+38538,SANTA ISABEL DIAZ GONZALEZ,Secretaría,Sí,0,0,0,,
+42610,RICHARD GARCIA,Coordinación / Director,Sí,0,0,0,,
+43013,Mariela Cristaldo,Coordinación / Director,Sí,0,0,0,,
+44844,Roque Perez,Director,Sí,0,0,0,,
+44938,Linda Troche,Coordinación / Director,Sí,0,0,0,,
+48463,Nelly Soledad Cáceres Encina,Relator,Sí,0,0,0,,
+872,JUAN MANUEL CÉSPEDES ALLENDE,Mesa Entrada,Sí,0,0,0,,
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,37,20,30,8,132
+24997,LIZA FAVIOLA  GIMÉNEZ,Juez de Sumario,No,12,1,11,0,122
+44038,Juan Fernando Lebrón,Juez de Sumario,No,1,0,1,,56
+1020,ROMINNA VERA,Relator,No,2,0,2,,106
+25004,HUGO MIÑO,Juez de Sumario,No,0,0,0,,
+42443,Christian Britez Lopez,Juez de Sumario,No,1,0,1,,65
+25002,BASILIO ALVARENGA,Ujier Notificador,No,0,0,0,,
+30433,NORA BOGARIN,Dpto. Judicial,No,0,0,0,,
+24999,CLAUDIA AQUINO,Juez de Sumario,No,0,0,0,,
+29941,ALFREDO BAEZ,Ujier Notificador,No,0,0,0,,
