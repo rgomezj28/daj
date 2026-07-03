@@ -1,0 +1,64 @@
+"user_id","funcionario","area","habilitado","exp_recibidos","exp_derivados","stock_en_poder","promedio_dias_por_exp","dias_exp_mas_antiguo","pct_productividad"
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,416,338,419,13,177,81
+962,ABOG. DIEGO ARMANDO LEZCANO GALEANO,Dictaminante,Sí,312,244,308,15,178,78
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial / Juez de Sumario / Secretaría,Sí,254,222,245,6,171,87
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,204,164,194,9,171,80
+959,CYNTHIA GILL,Juez de Sumario,Sí,176,128,168,11,162,73
+22711,ALEXIS ISMAEL  MIÑO SAYAS,Dictaminante,Sí,162,121,160,19,171,75
+48210,Alma Maria Gamarra Alegre,Dictaminante / Dpto. Judicial,Sí,132,121,130,9,137,92
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación / Juez de Sumario,Sí,146,115,131,11,172,79
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,128,104,120,13,163,81
+24990,VICTOR RODAS,Dictaminante / Relator,Sí,115,97,103,15,163,84
+24992,ADRIAN FERNANDEZ,Conclusión / Dpto. Judicial / Juez de Sumario,Sí,136,97,131,10,165,71
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,118,93,111,10,162,79
+24993,MARCOS GALEANO,Juez de Sumario,Sí,143,86,133,10,171,60
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,111,83,109,14,168,75
+27472,ARNALDO CACERES,Dpto. Judicial,Sí,77,76,77,1,165,99
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,87,70,84,9,154,80
+25028,MABEL DIAZ,Juez de Sumario,Sí,85,67,78,14,170,79
+27784,MARIANA LOPEZ,Conclusión / Juez de Sumario,Sí,82,61,79,7,165,74
+46722,BRUNO ANGULO APONTE,Dictaminante,Sí,63,59,59,23,165,94
+24989,CARLOS ALBERTO SANCHEZ NUÑEZ,Ujier Notificador,Sí,51,51,45,15,129,100
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,51,35,45,15,161,69
+8880,SOL RIVEROS,Juez de Sumario,Sí,62,34,63,6,163,55
+24991,GUSTAVO MARTINEZ,Coordinación / Dpto. Judicial,Sí,53,33,53,9,175,62
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,33,30,32,7,165,91
+48200,SANDRA FERNANDEZ DI TORE,Juez de Sumario,Sí,25,25,26,6,129,100
+46169,Amelia Fernandez,Juez de Sumario,Sí,28,24,21,2,130,86
+45777,NILSON MOREL,Juez de Sumario / Secretaría,Sí,20,14,14,12,149,70
+24995,CARLA GOMEZ,Coordinación,Sí,7,6,7,9,157,86
+29586,CAMILA  GONZALEZ,Coordinación,Sí,6,5,5,20,90,83
+980,MIRIAN JULIANA  PERALTA OJEDA,Secretaría,Sí,2,2,0,2,,100
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,11,1,10,0,162,9
+49262,CARLOS ALBERTO SANCHEZ NUÑEZ,Dictaminante / Ujier Notificador,Sí,0,0,0,,,0
+892,Rosa Gómez,Coordinación / Director,Sí,0,0,0,,,0
+898,CRISTIAN AMADEO BAZAN FIORI,Coordinación / Director,Sí,0,0,0,,,0
+923,GONZALO RAFAEL CABALLERO MORA,Ujier Notificador,Sí,0,0,0,,,0
+999,AMELIA RAMIREZ,Secretaría,Sí,0,0,0,,,0
+1027,ARNALDO EMMANUEL MUÑOZ GONZALEZ,Coordinación / Director / Mesa Entrada,Sí,0,0,0,,,0
+6796,ISSIS BEATRIZ AYALA DE PINTOS,Coordinación / Mesa Entrada / Ujier Notificador,Sí,0,0,0,,,0
+22681,VICTOR JOSE DUARTE PIÑANEZ,Relator,Sí,0,0,0,,,0
+24998,ROCIO SANABRIA,Coordinación / Director,Sí,0,0,0,,,0
+27288,EDUARDO CALCENA,Secretaría,Sí,0,0,0,,,0
+27662,ROCIO SANTACRUZ,Secretaría,Sí,0,0,0,,,0
+28821,MATIAS OSMAR ESPINOLA AQUINO,Ujier Notificador,Sí,0,0,0,,,0
+35426,AIDA ADELINA ORTEGA PEREIRA,Secretaría,Sí,0,0,0,,,0
+38255,FRANCISCO JAVIER GALEANO OCAMPOS,Secretaría,Sí,0,0,0,,,0
+38288,VICTOR ANDRES GONZALEZ BEDOYA,Director,Sí,0,0,0,,,0
+38538,SANTA ISABEL DIAZ GONZALEZ,Secretaría,Sí,0,0,0,,,0
+42610,RICHARD GARCIA,Coordinación / Director,Sí,0,0,0,,,0
+43013,Mariela Cristaldo,Director,Sí,0,0,0,,,0
+44844,Roque Perez,Director,Sí,0,0,0,,,0
+44938,Linda Troche,Coordinación / Director,Sí,0,0,0,,,0
+48463,Nelly Soledad Cáceres Encina,Relator,Sí,0,0,0,,,0
+872,JUAN MANUEL CÉSPEDES ALLENDE,Mesa Entrada,Sí,0,0,0,,,0
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,53,29,45,10,175,55
+24997,LIZA FAVIOLA  GIMÉNEZ,Juez de Sumario,No,12,1,11,0,165,8
+30433,NORA BOGARIN,Dpto. Judicial,No,1,1,0,0,,100
+1020,ROMINNA VERA,Relator,No,2,0,2,,149,0
+25004,HUGO MIÑO,Juez de Sumario,No,0,0,0,,,0
+42443,Christian Britez Lopez,Juez de Sumario,No,2,0,2,,108,0
+25002,BASILIO ALVARENGA,Ujier Notificador,No,0,0,0,,,0
+24999,CLAUDIA AQUINO,Juez de Sumario,No,0,0,0,,,0
+29941,ALFREDO BAEZ,Ujier Notificador,No,0,0,0,,,0
+44038,Juan Fernando Lebrón,Juez de Sumario,No,1,0,1,,99,0

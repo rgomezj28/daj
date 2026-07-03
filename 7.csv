@@ -1,0 +1,662 @@
+"user_id","funcionario","area","habilitado","estado_actual","cantidad_en_poder","promedio_dias_en_poder","dias_exp_mas_antiguo"
+1020,ROMINNA VERA,Relator,No,Aprobado,33,1922,1943
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,Aprobado,4053,1183,1943
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Aprobado,1,1942,1942
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Aprobado,1,1942,1942
+24990,VICTOR RODAS,Dictaminante,Sí,Aprobado,419,743,1942
+24990,VICTOR RODAS,Relator,Sí,Aprobado,419,743,1942
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Aprobado,269,1895,1929
+22711,ALEXIS ISMAEL  MIÑO SAYAS,Dictaminante,Sí,Aprobado,1383,1341,1929
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Aprobado,8,1084,1927
+24999,CLAUDIA AQUINO,Juez de Sumario,No,Aprobado,3,1913,1927
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Aprobado,1,1926,1926
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Aprobado,1,1926,1926
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Elaborado,1,1908,1908
+8880,SOL RIVEROS,Juez de Sumario,Sí,A Notificar,5,477,1908
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Archivado,184,845,1906
+8880,SOL RIVEROS,Juez de Sumario,Sí,Pendiente,1,1899,1899
+25004,HUGO MIÑO,Juez de Sumario,No,Archivado Sumario,1,1899,1899
+8880,SOL RIVEROS,Juez de Sumario,Sí,Archivado Sumario,24,1508,1898
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Archivado Sumario,28,1453,1898
+959,CYNTHIA GILL,Juez de Sumario,Sí,Archivado Sumario,51,1402,1893
+24990,VICTOR RODAS,Dictaminante,Sí,Archivado Sumario,23,1800,1879
+24990,VICTOR RODAS,Relator,Sí,Archivado Sumario,23,1800,1879
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Archivado Sumario,50,1568,1871
+959,CYNTHIA GILL,Juez de Sumario,Sí,Cancelado,1,1871,1871
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Archivado Sumario,50,1568,1871
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Archivado Sumario,78,1438,1870
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,A Notificar,15,514,1864
+24997,LIZA FAVIOLA  GIMÉNEZ,Juez de Sumario,No,Archivado Sumario,10,1703,1864
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,A Notificar,15,514,1864
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,Pendiente,1,1863,1863
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Archivado Sumario,11,1603,1858
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Archivado Sumario,11,1603,1858
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Archivado Sumario,36,1366,1853
+22711,ALEXIS ISMAEL  MIÑO SAYAS,Dictaminante,Sí,Cancelado,2,1822,1844
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Archivado,182,788,1838
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Archivado,182,788,1838
+24990,VICTOR RODAS,Relator,Sí,Cancelado,1,1817,1817
+24990,VICTOR RODAS,Dictaminante,Sí,Cancelado,1,1817,1817
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Cancelado,1,1814,1814
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Archivado,186,864,1813
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Archivado,186,864,1813
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,Cancelado,2,1788,1809
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Archivado Sumario,11,887,1808
+24990,VICTOR RODAS,Relator,Sí,Archivado,111,1092,1808
+24990,VICTOR RODAS,Dictaminante,Sí,Archivado,111,1092,1808
+46169,Amelia Fernandez,Juez de Sumario,Sí,A Notificar,14,575,1803
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Archivado,144,979,1802
+1020,ROMINNA VERA,Relator,No,Archivado,14,1401,1801
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Archivado Sumario,22,1440,1800
+959,CYNTHIA GILL,Juez de Sumario,Sí,Archivado,271,823,1793
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Archivado,300,841,1787
+24997,LIZA FAVIOLA  GIMÉNEZ,Juez de Sumario,No,Archivado,112,1135,1787
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Archivado,149,935,1786
+24997,LIZA FAVIOLA  GIMÉNEZ,Juez de Sumario,No,Acumulado,37,1567,1782
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Acumulado,23,1417,1782
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Acumulado,35,1284,1782
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Acumulado,49,1321,1782
+24990,VICTOR RODAS,Relator,Sí,Acumulado,14,1640,1781
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Acumulado,22,1006,1781
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Acumulado,22,1006,1781
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Acumulado,82,1286,1781
+24990,VICTOR RODAS,Dictaminante,Sí,Acumulado,14,1640,1781
+8880,SOL RIVEROS,Juez de Sumario,Sí,Acumulado,12,1308,1781
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Acumulado,21,1162,1775
+29586,CAMILA  GONZALEZ,Coordinación,Sí,Archivado Sumario,11,1307,1729
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Archivado,123,700,1717
+29586,CAMILA  GONZALEZ,Coordinación,Sí,Cancelado,2,1570,1698
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Acumulado,30,1019,1697
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Acumulado,30,1019,1697
+959,CYNTHIA GILL,Juez de Sumario,Sí,Acumulado,72,1174,1691
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Acumulado,33,1227,1687
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Acumulado,33,1227,1687
+30433,NORA BOGARIN,Dpto. Judicial,No,Archivado,92,1311,1673
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Archivado,222,943,1649
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Archivado,222,943,1649
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,Archivado,146,1175,1625
+29586,CAMILA  GONZALEZ,Coordinación,Sí,Archivado,79,1216,1625
+24989,CARLOS ALBERTO SANCHEZ NUÑEZ,Ujier Notificador,Sí,Archivado,48,1265,1624
+8880,SOL RIVEROS,Juez de Sumario,Sí,Archivado,157,899,1598
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Archivado Sumario,7,914,1562
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Archivado Sumario,7,914,1562
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,Archivado,102,475,1551
+24998,ROCIO SANABRIA,Coordinación,Sí,Archivado,3,1479,1548
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,A Notificar,11,783,1535
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Archivado,129,874,1529
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Archivado,129,874,1529
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Archivado,89,750,1519
+27472,ARNALDO CACERES,Dpto. Judicial,Sí,Archivado,37,1185,1478
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Acumulado,17,865,1465
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Cancelado,1,1442,1442
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Archivado,118,713,1417
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Archivado Sumario,2,1049,1404
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Archivado Sumario,2,1049,1404
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,Archivado,116,952,1372
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,A Notificar,20,190,1353
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,A Notificar,20,190,1353
+24990,VICTOR RODAS,Dictaminante,Sí,En Proceso,7,411,1337
+24990,VICTOR RODAS,Relator,Sí,En Proceso,7,411,1337
+24990,VICTOR RODAS,Dictaminante,Sí,A Notificar,2,748,1334
+24990,VICTOR RODAS,Relator,Sí,A Notificar,2,748,1334
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,En diligencias,2,1001,1306
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,En diligencias,2,1001,1306
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,Con observado,129,424,1304
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Acumulado,9,682,1299
+24990,VICTOR RODAS,Dictaminante,Sí,Con observado,31,415,1290
+24990,VICTOR RODAS,Relator,Sí,Con observado,31,415,1290
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Notificación,14,349,1283
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Notificación,14,349,1283
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,Notificado,7,1270,1271
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,Finiquitado,1,1270,1270
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Archivado Sumario,4,1031,1263
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Notificación,14,390,1257
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Notificación,14,390,1257
+22711,ALEXIS ISMAEL  MIÑO SAYAS,Dictaminante,Sí,Con observado,74,404,1253
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,Archivado Sumario,2,941,1228
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,En espera,1,1220,1220
+22711,ALEXIS ISMAEL  MIÑO SAYAS,Dictaminante,Sí,Archivado,36,480,1220
+42443,Christian Britez Lopez,Juez de Sumario,No,Notificación,2,1220,1220
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,En espera,1,1220,1220
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,En espera,1,1220,1220
+24990,VICTOR RODAS,Dictaminante,Sí,Notificación,2,611,1220
+24990,VICTOR RODAS,Relator,Sí,Notificación,2,611,1220
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Archivado Sumario,1,1200,1200
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Notificación,13,297,1176
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Archivado,55,425,1172
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Recomendacion,3,1145,1150
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Recomendacion,3,1145,1150
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,A Notificar,14,215,1137
+24990,VICTOR RODAS,Dictaminante,Sí,Tribunal de Cuentas,8,1090,1130
+24990,VICTOR RODAS,Relator,Sí,Tribunal de Cuentas,8,1090,1130
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Elaborar Suspension DIA,1,1129,1129
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Elaborar Suspension DIA,1,1129,1129
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Providencia de Prorroga,4,511,1129
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,En diligencias,33,267,1128
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Archivado Sumario,5,643,1122
+25028,MABEL DIAZ,Juez de Sumario,Sí,En diligencias,57,278,1121
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,Tribunal de Cuentas,9,1106,1116
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Reconsideracion SG,1,1107,1107
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Archivado Sumario,1,1106,1106
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Resolucion de Archivamiento,4,757,1101
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Resolucion de Archivamiento,4,757,1101
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Resolucion de Archivamiento,5,550,1101
+959,CYNTHIA GILL,Juez de Sumario,Sí,Conclusion,20,504,1100
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Resolucion de Archivamiento,6,471,1099
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Resolucion de Archivamiento,3,858,1099
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Resolucion de Archivamiento,6,471,1099
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Resolucion de Archivamiento,3,668,1099
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Resolucion de Archivamiento,2,554,1099
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Archivado Acumulado,2,587,1096
+24990,VICTOR RODAS,Relator,Sí,Archivado Acumulado,2,735,1096
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Archivado Acumulado,8,865,1096
+24990,VICTOR RODAS,Dictaminante,Sí,Archivado Acumulado,2,735,1096
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Archivado Acumulado,1,1096,1096
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Elaboracion de Archivo,16,569,1095
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Tribunal de Cuentas,11,1083,1094
+24990,VICTOR RODAS,Relator,Sí,En Ejecución,75,1059,1094
+959,CYNTHIA GILL,Juez de Sumario,Sí,Relator,38,224,1094
+24990,VICTOR RODAS,Dictaminante,Sí,En Ejecución,75,1059,1094
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Relator,32,235,1094
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,En Ejecución,63,1084,1094
+24989,CARLOS ALBERTO SANCHEZ NUÑEZ,Ujier Notificador,Sí,En Ejecución,69,1083,1094
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,En Ejecución,64,1081,1094
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,En Ejecución,62,1081,1094
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,En Ejecución,64,1081,1094
+8880,SOL RIVEROS,Juez de Sumario,Sí,Elaboracion de Archivo,2,727,1093
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Archivado Acumulado,2,906,1089
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Tribunal de Cuentas,6,758,1089
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Tribunal de Cuentas,6,758,1089
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Archivado Acumulado,2,906,1089
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Archivado Acumulado,2,1088,1089
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Notificacion Reconsideracion,2,888,1088
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Notificacion Reconsideracion,2,888,1088
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Conclusion,8,452,1087
+30433,NORA BOGARIN,Dpto. Judicial,No,Notificacion Reconsideracion,1,1087,1087
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,Rechazo AI Recomendación,2,782,1087
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Conclusion,5,382,1081
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Notificacion Reconsideracion,1,1081,1081
+24990,VICTOR RODAS,Relator,Sí,Archivado Judiciales,5,576,1080
+959,CYNTHIA GILL,Juez de Sumario,Sí,Archivado Acumulado,2,912,1080
+24990,VICTOR RODAS,Dictaminante,Sí,Archivado Judiciales,5,576,1080
+24989,CARLOS ALBERTO SANCHEZ NUÑEZ,Ujier Notificador,Sí,Archivado Judiciales,7,711,1078
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Acumulado,5,793,1073
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Archivado Judiciales,4,653,1072
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Conclusion,14,431,1071
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,Archivado Sumario,6,990,1066
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Dictamen,2,548,1065
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Dictamen,2,548,1065
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Archivado Acumulado,2,1055,1060
+959,CYNTHIA GILL,Juez de Sumario,Sí,A Notificar,32,242,1059
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,Notificacion Reconsideracion,1,1059,1059
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,Archivado Judiciales,5,552,1059
+24989,CARLOS ALBERTO SANCHEZ NUÑEZ,Ujier Notificador,Sí,Tribunal de Cuentas,2,1022,1059
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Providencia de Reconsideracion,20,966,1058
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Archivado,26,227,1057
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Elaboracion de Archivo,7,775,1050
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Solicitud Pago Fraccionado,1,1045,1045
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Resolucion de Archivamiento,2,705,1043
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,Providencia de Reconsideracion,39,932,1043
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Elaboracion de Archivo,6,727,1037
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Verificacion DFAI,1,1036,1036
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,A Notificar,20,293,1032
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Informe DAF,1,1024,1024
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Informe DAF,1,1024,1024
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,Informe DAF,2,995,1024
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,En diligencias,71,263,1023
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,En diligencias,71,263,1023
+962,ABOG. DIEGO ARMANDO LEZCANO GALEANO,Dictaminante,Sí,Aprobado,994,530,1019
+24990,VICTOR RODAS,Relator,Sí,Pendiente,1,1012,1012
+24990,VICTOR RODAS,Dictaminante,Sí,Pendiente,1,1012,1012
+962,ABOG. DIEGO ARMANDO LEZCANO GALEANO,Dictaminante,Sí,Con observado,115,331,1009
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,Providencia de Revision,4,890,1005
+42443,Christian Britez Lopez,Juez de Sumario,No,En diligencias,5,783,1002
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,A Notificar,4,423,997
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Resolucion de Archivamiento,2,975,984
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,A Notificar,11,179,983
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Conclusion,7,603,981
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Conclusion,7,603,981
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Relator,22,138,981
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Conclusion,8,698,977
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Conclusion,8,698,977
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Providencia de Reconsideracion,21,214,976
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Providencia de Reconsideracion,21,214,976
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,En Ejecución,32,931,963
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,AI de Instrucción,1,963,963
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Conclusion,16,320,963
+24993,MARCOS GALEANO,Juez de Sumario,Sí,En Ejecución,18,949,963
+25028,MABEL DIAZ,Juez de Sumario,Sí,Elaboracion de Archivo,6,750,963
+27472,ARNALDO CACERES,Dpto. Judicial,Sí,En Ejecución,23,953,962
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Providencia de Reconsideracion,31,613,956
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Elaboracion de Archivo,7,502,952
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Elaboracion de Archivo,7,502,952
+30433,NORA BOGARIN,Dpto. Judicial,No,Informe DAF,1,948,948
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Elaboracion de Archivo,6,691,948
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,A Notificar,36,169,947
+25028,MABEL DIAZ,Juez de Sumario,Sí,Notificación,5,533,947
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Notificación,7,237,946
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Elaboracion de Archivo,8,680,946
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,Designacion Abogado Revision,1,944,944
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,En diligencias,28,238,940
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Elaboracion de Archivo,15,480,934
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Elaboracion de Archivo,9,480,934
+8880,SOL RIVEROS,Juez de Sumario,Sí,Archivado Acumulado,4,840,903
+8880,SOL RIVEROS,Juez de Sumario,Sí,En diligencias,21,237,900
+25028,MABEL DIAZ,Juez de Sumario,Sí,Acumulado,4,776,890
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Tribunal de Cuentas,1,889,889
+27472,ARNALDO CACERES,Dpto. Judicial,Sí,Tribunal de Cuentas,2,889,889
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,En diligencias,39,195,886
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,En diligencias,39,195,886
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,En proceso de pago,1,884,884
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Providencia de Reconsideracion,31,389,884
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Providencia de Reconsideracion,31,389,884
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Dictamen,1,882,882
+24997,LIZA FAVIOLA  GIMÉNEZ,Juez de Sumario,No,Archivado Acumulado,1,879,879
+962,ABOG. DIEGO ARMANDO LEZCANO GALEANO,Dictaminante,Sí,En Proceso,24,96,877
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Archivado Acumulado,1,876,876
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,En diligencias,1,864,864
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Informe DAF,1,862,862
+959,CYNTHIA GILL,Juez de Sumario,Sí,Elaboracion de Archivo,18,472,855
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Conclusion,6,558,847
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Conclusion,6,558,847
+8880,SOL RIVEROS,Juez de Sumario,Sí,Relator,17,357,842
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,Elaboracion de Archivo,3,614,836
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Providencia de Revision,1,833,833
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,En diligencias,76,294,819
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Valoración de Pruebas,9,143,815
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Reconsideracion SG,2,408,808
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Conclusion,5,440,807
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Aprobado,1,791,791
+27472,ARNALDO CACERES,Dpto. Judicial,Sí,Archivado Judiciales,7,514,788
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Archivado Acumulado,2,772,785
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Elaboracion de Archivo,12,448,773
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Elaboracion de Archivo,12,448,773
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Suspension de plazo,1,765,765
+27472,ARNALDO CACERES,Dpto. Judicial,Sí,En proceso de ejecucion ,126,227,765
+44038,Juan Fernando Lebrón,Juez de Sumario,No,Elaboracion de Archivo,1,763,763
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Relator,65,172,760
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Relator,18,273,758
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,En diligencias,74,345,758
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Relator,39,176,757
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Relator,25,229,757
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Relator,25,229,757
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,En proceso de ejecucion ,20,755,755
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Archivado Judiciales,6,506,746
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Archivado Judiciales,3,694,746
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,Archivado Judiciales,5,489,746
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Archivado Judiciales,6,506,746
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,En diligencias,1,736,736
+25028,MABEL DIAZ,Juez de Sumario,Sí,Valoración de Pruebas,26,172,735
+959,CYNTHIA GILL,Juez de Sumario,Sí,En diligencias,27,302,732
+24993,MARCOS GALEANO,Juez de Sumario,Sí,En proceso de ejecucion ,2,730,730
+959,CYNTHIA GILL,Juez de Sumario,Sí,Valoración de Pruebas,29,142,730
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Recomendacion,13,205,724
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Recomendacion,13,205,724
+24989,CARLOS ALBERTO SANCHEZ NUÑEZ,Ujier Notificador,Sí,Conclusion,1,721,721
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Notificación,9,338,709
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,A.I. de recomendacion de suspension,1,707,707
+1020,ROMINNA VERA,Relator,No,En diligencias,1,703,703
+24989,CARLOS ALBERTO SANCHEZ NUÑEZ,Ujier Notificador,Sí,En diligencias,1,703,703
+24990,VICTOR RODAS,Relator,Sí,En diligencias,10,644,701
+24990,VICTOR RODAS,Dictaminante,Sí,En diligencias,10,644,701
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,Reconsideracion SG,1,695,695
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,En diligencias,31,413,694
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Verificacion DFAI,1,694,694
+8880,SOL RIVEROS,Juez de Sumario,Sí,Aprobado,1,688,688
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Verificacion DFAI,1,680,680
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Verificacion DFAI,1,680,680
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,A Notificar,8,198,673
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,En proceso de ejecucion ,3,513,673
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,A Notificar,8,198,673
+25028,MABEL DIAZ,Juez de Sumario,Sí,Archivado,28,249,672
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,En Proceso,39,80,668
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Relator,43,179,666
+29586,CAMILA  GONZALEZ,Coordinación,Sí,En diligencias,1,647,647
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,En diligencias,28,213,646
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Conclusion,5,347,645
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,Recomendacion,1,632,632
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Elaboracion de Archivo,8,373,612
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Elaboracion de Archivo,8,373,612
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,A acumular,2,321,609
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Relator,43,199,602
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Relator,43,199,602
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Rechazo AI Recomendación,1,597,597
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Rechazo AI Recomendación,1,597,597
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Rechazo AI Recomendación,1,597,597
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Asignado,1,577,577
+24993,MARCOS GALEANO,Juez de Sumario,Sí,A acumular,2,328,570
+1020,ROMINNA VERA,Relator,No,Acumulado,1,570,570
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,En proceso de pago,1,561,561
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Providencia de Revision,1,561,561
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Recomendacion,1,561,561
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Dictamen de Archivamiento,1,554,554
+42443,Christian Britez Lopez,Juez de Sumario,No,Archivado,5,285,542
+44038,Juan Fernando Lebrón,Juez de Sumario,No,En diligencias,2,496,528
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Archivado Acumulado,1,527,527
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Archivado Acumulado,1,527,527
+24995,CARLA GOMEZ,Coordinación,Sí,En diligencias,1,519,519
+44038,Juan Fernando Lebrón,Juez de Sumario,No,Archivado,2,305,512
+24995,CARLA GOMEZ,Coordinación,Sí,Pendiente,1,508,508
+24995,CARLA GOMEZ,Coordinación,Sí,Acumulado,1,508,508
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Recomendacion,2,362,505
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,En proceso de ejecucion ,6,311,501
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,En proceso de ejecucion ,6,311,501
+44038,Juan Fernando Lebrón,Juez de Sumario,No,Acumulado,2,444,497
+24990,VICTOR RODAS,Relator,Sí,Elaboracion de Archivo,2,415,493
+24990,VICTOR RODAS,Dictaminante,Sí,Elaboracion de Archivo,2,415,493
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Reconsideracion SG,3,362,485
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,Tribunal de Cuentas,1,476,476
+959,CYNTHIA GILL,Juez de Sumario,Sí,Firma del Ministro,1,472,472
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,En proceso de pago,1,471,471
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,En diligencias,23,166,458
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,En diligencias,23,166,458
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,En proceso de ejecucion sumario,20,142,457
+24993,MARCOS GALEANO,Juez de Sumario,Sí,A Notificar,17,197,456
+25028,MABEL DIAZ,Juez de Sumario,Sí,Recomendacion,20,173,455
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Rechazo AI Recomendación,1,430,430
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Rechazo AI Recomendación,1,430,430
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Resolucion DAJ,5,88,423
+959,CYNTHIA GILL,Juez de Sumario,Sí,Notificación,13,151,423
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Resolucion DAJ,5,88,423
+46169,Amelia Fernandez,Juez de Sumario,Sí,En diligencias,10,99,417
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,Elaborado,15,39,407
+29586,CAMILA  GONZALEZ,Coordinación,Sí,Archivado Acumulado,1,406,406
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Notificación,13,201,402
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Dictamen de revision,1,402,402
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Dictamen de revision,1,402,402
+22711,ALEXIS ISMAEL  MIÑO SAYAS,Dictaminante,Sí,En Proceso,33,86,400
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,A Notificar,18,130,399
+25028,MABEL DIAZ,Juez de Sumario,Sí,A Notificar,12,120,399
+24995,CARLA GOMEZ,Coordinación,Sí,A Notificar,2,278,399
+29586,CAMILA  GONZALEZ,Coordinación,Sí,Relator,4,354,389
+25028,MABEL DIAZ,Juez de Sumario,Sí,Archivado Sumario,1,389,389
+29586,CAMILA  GONZALEZ,Coordinación,Sí,A Notificar,1,387,387
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Valoración de Pruebas,26,81,385
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Relator,74,183,380
+962,ABOG. DIEGO ARMANDO LEZCANO GALEANO,Dictaminante,Sí,Archivado,61,167,378
+24995,CARLA GOMEZ,Coordinación,Sí,Relator,7,227,375
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Recomendacion,3,355,372
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,En proceso de ejecucion ,30,310,371
+24995,CARLA GOMEZ,Coordinación,Sí,AI de Instrucción,1,371,371
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,En proceso de ejecucion ,30,310,371
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Relator,19,197,368
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Relator,19,197,368
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Relator,19,203,366
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Confirmacion Reconsideracion,11,172,365
+24990,VICTOR RODAS,Dictaminante,Sí,Recomendacion,2,219,365
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Confirmacion Reconsideracion,11,172,365
+24990,VICTOR RODAS,Relator,Sí,Recomendacion,2,219,365
+25028,MABEL DIAZ,Juez de Sumario,Sí,Relator,10,172,364
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Valoración de Pruebas,7,151,363
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Confirmacion,10,181,361
+34363,LUCIA ROJAS GONZALEZ,Dpto. Judicial,Sí,Confirmacion Reconsideracion,1,359,359
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Confirmacion,2,358,358
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Confirmacion Reconsideracion,2,217,354
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Notificación,7,157,352
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Notificación,6,236,352
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Confirmacion,6,200,350
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Confirmacion,6,200,350
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Acumulacion,2,214,344
+962,ABOG. DIEGO ARMANDO LEZCANO GALEANO,Dictaminante,Sí,Elaborado,8,160,339
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,En proceso de pago,1,330,330
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,En proceso de pago,1,330,330
+45777,NILSON MOREL,Juez de Sumario,Sí,A Notificar,4,156,326
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Valoración de Pruebas,12,148,325
+24990,VICTOR RODAS,Dictaminante,Sí,Relator,3,272,324
+1020,ROMINNA VERA,Relator,No,Relator,2,205,324
+24990,VICTOR RODAS,Relator,Sí,Relator,3,272,324
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,En proceso de ejecucion sumario,13,215,322
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,En proceso de ejecucion sumario,18,202,321
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,En proceso de ejecucion sumario,18,202,321
+959,CYNTHIA GILL,Juez de Sumario,Sí,En proceso de ejecucion sumario,44,190,316
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,En proceso de ejecucion sumario,18,214,316
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,En proceso de ejecucion sumario,37,160,316
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,En proceso de ejecucion sumario,19,196,316
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,En proceso de ejecucion sumario,37,160,316
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,En proceso de ejecucion sumario,48,184,316
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,En proceso de ejecucion sumario,21,207,309
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,En proceso de ejecucion sumario,30,219,309
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,En proceso de ejecucion sumario,21,207,309
+8880,SOL RIVEROS,Juez de Sumario,Sí,En proceso de ejecucion sumario,16,234,308
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,En proceso de ejecucion sumario,30,171,304
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Cancelado,1,304,304
+24993,MARCOS GALEANO,Juez de Sumario,Sí,En proceso de ejecucion sumario,30,209,304
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Cancelado,1,304,304
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Pendiente,2,282,304
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Pendiente,2,282,304
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,Relator,3,207,298
+25028,MABEL DIAZ,Juez de Sumario,Sí,Dictamen de Archivamiento,1,297,297
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Pendiente,1,295,295
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Confirmacion,4,177,295
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Pendiente,1,295,295
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Confirmacion,4,177,295
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Pendiente,1,295,295
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Pendiente,1,295,295
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Pendiente,1,291,291
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Recomendacion,3,117,291
+48200,SANDRA FERNANDEZ DI TORE,Juez de Sumario,Sí,En diligencias,18,66,290
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,En diligencias,20,115,290
+29586,CAMILA  GONZALEZ,Coordinación,Sí,Conclusion,1,288,288
+25028,MABEL DIAZ,Juez de Sumario,Sí,En proceso de ejecucion sumario,8,227,288
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Confirmación SG,5,182,281
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Confirmación SG,5,182,281
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,En proceso de ejecucion sumario,5,133,281
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Providencia de Reconsideracion,2,275,280
+24990,VICTOR RODAS,Dictaminante,Sí,En proceso de ejecucion sumario,1,280,280
+24990,VICTOR RODAS,Relator,Sí,En proceso de ejecucion sumario,1,280,280
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Providencia de Reconsideracion,2,275,280
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Notificacion Cierre,1,276,276
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Archivado Judiciales,3,272,273
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Archivado Judiciales,3,272,273
+29586,CAMILA  GONZALEZ,Coordinación,Sí,Valoración de Pruebas,2,144,269
+27472,ARNALDO CACERES,Dpto. Judicial,Sí,Dictamen,2,267,267
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,En proceso de ejecucion ,177,93,267
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,En proceso de ejecucion ,177,93,267
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Relator,9,95,267
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Cancelado,1,266,266
+46722,BRUNO ANGULO APONTE,Dictaminante,Sí,Aprobado,36,101,262
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Pendiente,1,261,261
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Pendiente,1,261,261
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Notificación,4,154,260
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,Providencia de Prorroga,2,130,260
+27472,ARNALDO CACERES,Dpto. Judicial,Sí,Providencia de Reconsideracion,2,259,259
+959,CYNTHIA GILL,Juez de Sumario,Sí,Recomendacion,5,95,259
+1020,ROMINNA VERA,Relator,No,Notificación,1,256,256
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Reconsideracion SG,9,180,254
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Reconsideracion SG,9,215,254
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Confirmacion,7,137,254
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Reconsideracion SG,9,180,254
+27472,ARNALDO CACERES,Dpto. Judicial,Sí,Reconsideracion SG,1,254,254
+46722,BRUNO ANGULO APONTE,Dictaminante,Sí,Con observado,12,87,254
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Reconsideracion SG,9,215,254
+46722,BRUNO ANGULO APONTE,Dictaminante,Sí,Archivado,8,139,253
+46722,BRUNO ANGULO APONTE,Dictaminante,Sí,En Proceso,18,68,253
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Confirmación SG,2,252,252
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Confirmación SG,2,252,252
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Confirmación SG,13,220,252
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Confirmación SG,13,220,252
+24995,CARLA GOMEZ,Coordinación,Sí,Notificación,2,144,252
+27472,ARNALDO CACERES,Dpto. Judicial,Sí,Confirmación SG,1,252,252
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Conclusion,5,113,249
+25028,MABEL DIAZ,Juez de Sumario,Sí,Conclusion,1,249,249
+8880,SOL RIVEROS,Juez de Sumario,Sí,Valoración de Pruebas,5,122,248
+8880,SOL RIVEROS,Juez de Sumario,Sí,Confirmacion,1,248,248
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Confirmacion,8,135,247
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Confirmacion Reconsideracion,6,160,245
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Confirmacion Reconsideracion,6,160,245
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,Conclusion,1,242,242
+24995,CARLA GOMEZ,Coordinación,Sí,En proceso de ejecucion sumario,2,185,241
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Confirmacion,1,240,240
+45777,NILSON MOREL,Juez de Sumario,Sí,En proceso de ejecucion sumario,1,237,237
+45777,NILSON MOREL,Juez de Sumario,Sí,Relator,7,138,235
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Confirmacion,4,95,234
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Valoración de Pruebas,19,82,227
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,A Notificar,16,72,226
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,En diligencias,25,101,221
+959,CYNTHIA GILL,Juez de Sumario,Sí,Confirmacion,6,161,218
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,En proceso de pago,3,156,217
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,En proceso de pago,3,156,217
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Valoración de Pruebas,15,40,213
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Valoración de Pruebas,6,75,213
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Valoración de Pruebas,6,75,213
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Valoración de Pruebas,3,115,212
+25028,MABEL DIAZ,Juez de Sumario,Sí,Archivado Acumulado,3,189,211
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Resolucion de Archivamiento,3,210,210
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Valoración de Pruebas,11,64,205
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Valoración de Pruebas,11,64,205
+959,CYNTHIA GILL,Juez de Sumario,Sí,Resolucion de Archivamiento,4,133,204
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Archivado Acumulado,2,139,193
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,Elaborado Abreviado,11,60,185
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,Confirmacion,1,169,169
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,Confirmacion,1,169,169
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,AI de Instrucción,5,55,158
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Elaboracion de Archivo,1,158,158
+48210,Alma Maria Gamarra Alegre,Dictaminante,Sí,Providencia de Reconsideracion,82,64,137
+48210,Alma Maria Gamarra Alegre,Dpto. Judicial,Sí,Providencia de Reconsideracion,82,64,137
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Confirmacion,1,136,136
+48210,Alma Maria Gamarra Alegre,Dictaminante,Sí,Providencia de Revision,3,99,135
+48210,Alma Maria Gamarra Alegre,Dpto. Judicial,Sí,Providencia de Revision,3,99,135
+962,ABOG. DIEGO ARMANDO LEZCANO GALEANO,Dictaminante,Sí,Confirmado Abreviado,5,64,130
+24989,CARLOS ALBERTO SANCHEZ NUÑEZ,Ujier Notificador,Sí,Aprobado,17,57,129
+48200,SANDRA FERNANDEZ DI TORE,Juez de Sumario,Sí,A Notificar,2,124,129
+24989,CARLOS ALBERTO SANCHEZ NUÑEZ,Ujier Notificador,Sí,En Proceso,12,63,128
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,AI de Instrucción,5,62,122
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,AI de Instrucción,5,62,122
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Notificación,3,71,119
+27472,ARNALDO CACERES,Dpto. Judicial,Sí,Archivado Sumario,1,119,119
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Confirmacion Reconsideracion,1,116,116
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Archivado Judiciales,5,66,114
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Archivado Judiciales,5,66,114
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,A acumular,1,114,114
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,A acumular,1,114,114
+48210,Alma Maria Gamarra Alegre,Dictaminante,Sí,Archivado,7,46,113
+48210,Alma Maria Gamarra Alegre,Dpto. Judicial,Sí,Archivado,7,46,113
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Confirmacion,3,73,113
+46169,Amelia Fernandez,Juez de Sumario,Sí,Valoración de Pruebas,2,106,106
+48210,Alma Maria Gamarra Alegre,Dpto. Judicial,Sí,En diligencias,3,106,106
+24989,CARLOS ALBERTO SANCHEZ NUÑEZ,Ujier Notificador,Sí,En proceso de ejecucion sumario,1,106,106
+48200,SANDRA FERNANDEZ DI TORE,Juez de Sumario,Sí,Acumulado,2,64,106
+48210,Alma Maria Gamarra Alegre,Dictaminante,Sí,En diligencias,3,106,106
+48210,Alma Maria Gamarra Alegre,Dpto. Judicial,Sí,Reconsideracion SG,15,94,100
+48210,Alma Maria Gamarra Alegre,Dictaminante,Sí,Reconsideracion SG,15,94,100
+24989,CARLOS ALBERTO SANCHEZ NUÑEZ,Ujier Notificador,Sí,Con observado,9,37,95
+8880,SOL RIVEROS,Juez de Sumario,Sí,Notificación,5,43,94
+29586,CAMILA  GONZALEZ,Coordinación,Sí,En proceso de ejecucion sumario,1,90,90
+24991,GUSTAVO MARTINEZ,Coordinación,Sí,En proceso de ejecucion sumario,3,40,87
+24995,CARLA GOMEZ,Coordinación,Sí,Valoración de Pruebas,1,87,87
+24991,GUSTAVO MARTINEZ,Dpto. Judicial,Sí,En proceso de ejecucion sumario,3,40,87
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Valoración de Pruebas,11,21,87
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Rechazo AI Recomendación,1,85,85
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Valoración de Pruebas,8,45,85
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Valoración de Pruebas,8,45,85
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Reconsideracion SG,1,84,84
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Reconsideracion SG,1,84,84
+962,ABOG. DIEGO ARMANDO LEZCANO GALEANO,Dictaminante,Sí,Devuelto al Consultor,5,32,81
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Confirmación SG,1,81,81
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,En proceso de ejecucion sumario,1,80,80
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Valoración de Pruebas,16,38,80
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,Relator,2,46,77
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Confirmacion,2,57,77
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Confirmacion,2,57,77
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Recomendacion,1,74,74
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Recomendacion,1,74,74
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Recomendacion,1,74,74
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Recomendacion,1,74,74
+962,ABOG. DIEGO ARMANDO LEZCANO GALEANO,Dictaminante,Sí,Elaborado Abreviado,16,28,73
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,En proceso de pago,1,71,71
+45777,NILSON MOREL,Juez de Sumario,Sí,Con observado,1,66,66
+48210,Alma Maria Gamarra Alegre,Dpto. Judicial,Sí,En proceso de ejecucion sumario,1,65,65
+48210,Alma Maria Gamarra Alegre,Dictaminante,Sí,En proceso de ejecucion sumario,1,65,65
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,Confirmado Abreviado,4,44,64
+22711,ALEXIS ISMAEL  MIÑO SAYAS,Dictaminante,Sí,Confirmado Abreviado,1,60,60
+1006,CLAUDIO VELAZQUEZ,Dictaminante,Sí,Devuelto al Consultor,1,60,60
+22711,ALEXIS ISMAEL  MIÑO SAYAS,Dictaminante,Sí,Elaborado Abreviado,7,36,59
+24990,VICTOR RODAS,Relator,Sí,Confirmado Abreviado,1,58,58
+24990,VICTOR RODAS,Dictaminante,Sí,Confirmado Abreviado,1,58,58
+45777,NILSON MOREL,Juez de Sumario,Sí,En Proceso,1,58,58
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Recomendacion,1,57,57
+45777,NILSON MOREL,Juez de Sumario,Sí,Archivado,2,35,56
+48200,SANDRA FERNANDEZ DI TORE,Juez de Sumario,Sí,Relator,4,31,53
+24989,CARLOS ALBERTO SANCHEZ NUÑEZ,Ujier Notificador,Sí,Elaborado Abreviado,2,48,52
+48210,Alma Maria Gamarra Alegre,Dictaminante,Sí,Confirmación SG,5,26,51
+48210,Alma Maria Gamarra Alegre,Dpto. Judicial,Sí,Confirmación SG,5,26,51
+24993,MARCOS GALEANO,Juez de Sumario,Sí,En proceso de pago,1,46,46
+48200,SANDRA FERNANDEZ DI TORE,Juez de Sumario,Sí,Archivado,1,46,46
+24995,CARLA GOMEZ,Coordinación,Sí,Archivado,1,45,45
+46169,Amelia Fernandez,Juez de Sumario,Sí,Relator,5,26,39
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,A Notificar,1,38,38
+24990,VICTOR RODAS,Relator,Sí,Elaborado Abreviado,3,26,36
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Acumulado,1,36,36
+24990,VICTOR RODAS,Dictaminante,Sí,Elaborado Abreviado,3,26,36
+46169,Amelia Fernandez,Juez de Sumario,Sí,Recomendacion,2,35,35
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Acumulacion,1,32,32
+24993,MARCOS GALEANO,Juez de Sumario,Sí,AI de Instrucción,1,28,28
+959,CYNTHIA GILL,Juez de Sumario,Sí,Providencia de Prorroga,1,25,25
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Notificacion Reconsideracion,1,23,23
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Notificacion Reconsideracion,1,23,23
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Solicitud Pago Fraccionado,1,17,17
+46722,BRUNO ANGULO APONTE,Dictaminante,Sí,Elaborado Abreviado,1,17,17
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Solicitud Pago Fraccionado,1,17,17
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,Valoración de Pruebas,3,7,17
+46169,Amelia Fernandez,Juez de Sumario,Sí,Archivado,1,17,17
+24988,CRISTINA  CENTURION,Juez de Sumario,Sí,Recomendacion,2,15,16
+48210,Alma Maria Gamarra Alegre,Dpto. Judicial,Sí,Dictamen de revision,1,15,15
+48210,Alma Maria Gamarra Alegre,Dictaminante,Sí,Dictamen,11,10,15
+48210,Alma Maria Gamarra Alegre,Dpto. Judicial,Sí,Dictamen,11,10,15
+48210,Alma Maria Gamarra Alegre,Dictaminante,Sí,Dictamen de revision,1,15,15
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Notificado,2,8,10
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Notificado,1,10,10
+24990,VICTOR RODAS,Dictaminante,Sí,Elaborado,4,3,9
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Resolucion DAJ,1,9,9
+24990,VICTOR RODAS,Relator,Sí,Elaborado,4,3,9
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Notificado,1,9,9
+24993,MARCOS GALEANO,Juez de Sumario,Sí,En diligencias,2,5,8
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Notificación,1,8,8
+48210,Alma Maria Gamarra Alegre,Dictaminante,Sí,Resolucion DAJ,1,8,8
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Resolucion DAJ,5,5,8
+48210,Alma Maria Gamarra Alegre,Dpto. Judicial,Sí,Resolucion DAJ,1,8,8
+29586,CAMILA  GONZALEZ,Coordinación,Sí,Confirmacion,1,8,8
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Notificación,1,8,8
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Resolucion DAJ,4,3,7
+48210,Alma Maria Gamarra Alegre,Dpto. Judicial,Sí,Confirmacion Reconsideracion,1,7,7
+959,CYNTHIA GILL,Juez de Sumario,Sí,Resolucion DAJ,3,5,7
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Resolucion DAJ,2,4,7
+48210,Alma Maria Gamarra Alegre,Dictaminante,Sí,Confirmacion Reconsideracion,1,7,7
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Resolucion DAJ,2,4,7
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,Providencia de Prorroga,1,6,6
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Providencia de Prorroga,1,6,6
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Providencia de Prorroga,2,6,6
+1003,LUZ ESPINOLA,Juez de Sumario,Sí,Resolucion DAJ,8,2,4
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Notificado,2,2,4
+959,CYNTHIA GILL,Juez de Sumario,Sí,Notificado,2,2,4
+24994,RUTH FABIOLA  GONZÁLEZ,Juez de Sumario,Sí,Notificado,2,2,4
+27372,JUAN ARIEL FRANCO,Juez de Sumario,No,Resolucion DAJ,2,4,4
+27600,ROMINA MORINIGO,Juez de Sumario,Sí,Verificacion DFAI,1,4,4
+24994,RUTH FABIOLA  GONZÁLEZ,Coordinación,Sí,Notificado,2,2,4
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Notificado,2,2,4
+32376,MARY ESTELA RODRIGUEZ QUINTANA,Juez de Sumario,Sí,Notificado,2,4,4
+22711,ALEXIS ISMAEL  MIÑO SAYAS,Dictaminante,Sí,Elaborado,2,4,4
+45777,NILSON MOREL,Juez de Sumario,Sí,Notificado,1,4,4
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Descargo,1,2,2
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Resolucion DAJ,3,1,2
+25028,MABEL DIAZ,Juez de Sumario,Sí,Resolucion DAJ,1,2,2
+959,CYNTHIA GILL,Juez de Sumario,Sí,Descargo,1,2,2
+8880,SOL RIVEROS,Juez de Sumario,Sí,Notificado,1,2,2
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Resolucion DAJ,2,1,2
+27784,MARIANA LOPEZ,Juez de Sumario,Sí,Recomendacion,1,2,2
+46722,BRUNO ANGULO APONTE,Dictaminante,Sí,A Modificar,1,2,2
+27726,ZULEMA DIVINA  DOMINGUEZ GÜTTER,Relator,Sí,Recurso de Reconsideracion,1,1,1
+8880,SOL RIVEROS,Juez de Sumario,Sí,Recomendacion,1,1,1
+8880,SOL RIVEROS,Juez de Sumario,Sí,Resolucion DAJ,4,0,1
+8880,SOL RIVEROS,Juez de Sumario,Sí,Solicitud Pago Fraccionado,1,1,1
+27371,ELIANA NOEMI SEGOVIA,Juez de Sumario,Sí,Designacion de abogado,1,1,1
+24992,ADRIAN FERNANDEZ,Dpto. Judicial,Sí,Dictamen,1,1,1
+24996,MARIA JOSE GUTIERREZ,Juez de Sumario,Sí,AI de Instrucción,1,1,1
+24993,MARCOS GALEANO,Juez de Sumario,Sí,Designacion de abogado,1,1,1
+27371,ELIANA NOEMI SEGOVIA,Dpto. Judicial,Sí,Designacion de abogado,1,1,1
+24992,ADRIAN FERNANDEZ,Juez de Sumario,Sí,Dictamen,1,1,1
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Notificado,1,1,1
+24990,VICTOR RODAS,Dictaminante,Sí,A Modificar,1,0,0
+8880,SOL RIVEROS,Juez de Sumario,Sí,Conclusion,1,0,0
+29938,ALANA ARRUA GALVAN,Juez de Sumario,Sí,Conclusion,1,0,0
+24990,VICTOR RODAS,Relator,Sí,A Modificar,1,0,0
